@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dmg-app/static/css/main.073c9b0a.css",
-    "main.js": "/dmg-app/static/js/main.cf95225b.js",
+    "main.js": "/dmg-app/static/js/main.b8251066.js",
     "static/js/787.0e0952ad.chunk.js": "/dmg-app/static/js/787.0e0952ad.chunk.js",
     "index.html": "/dmg-app/index.html",
     "main.073c9b0a.css.map": "/dmg-app/static/css/main.073c9b0a.css.map",
-    "main.cf95225b.js.map": "/dmg-app/static/js/main.cf95225b.js.map",
+    "main.b8251066.js.map": "/dmg-app/static/js/main.b8251066.js.map",
     "787.0e0952ad.chunk.js.map": "/dmg-app/static/js/787.0e0952ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cf95225b.js"
+    "static/js/main.b8251066.js"
   ]
 }
